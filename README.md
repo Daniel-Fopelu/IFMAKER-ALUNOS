@@ -1,6 +1,6 @@
-# IF Maiker - IFMS Ponta Porã
+# IF Maker - IFMS Ponta Porã
 
-Este é o repositório oficial do **IF Maiker**, um projeto desenvolvido no Instituto Federal de Mato Grosso do Sul - Campus Ponta Porã.
+Este é o repositório oficial do **IF Maker**, um projeto desenvolvido no Instituto Federal de Mato Grosso do Sul - Campus Ponta Porã.
 
 ## 👥 Equipe
 
@@ -13,7 +13,7 @@ O projeto é gerido pelos alunos:
 
 ## 🎯 Objetivo
 
-O IF Maiker tem como objetivo documentar e demonstrar as atividades desenvolvidas no laboratório do campus, abrangendo as áreas de eletrônica, impressão 3D e inovação e tecnológica..
+O IF Maker tem como objetivo documentar e demonstrar as atividades desenvolvidas no laboratório do campus, abrangendo as áreas de eletrônica, impressão 3D e inovação e tecnológica..
 
 ## 🚀 Tecnologias Utilizadas
 
