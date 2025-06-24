@@ -1,6 +1,6 @@
-# IF Meiker - IFMS Ponta Porã
+# IF Maiker - IFMS Ponta Porã
 
-Este é o repositório oficial do **IF Meiker**, um projeto desenvolvido no Instituto Federal de Mato Grosso do Sul - Campus Ponta Porã.
+Este é o repositório oficial do **IF Maiker**, um projeto desenvolvido no Instituto Federal de Mato Grosso do Sul - Campus Ponta Porã.
 
 ## 👥 Equipe
 
@@ -13,7 +13,7 @@ O projeto é gerido pelos alunos:
 
 ## 🎯 Objetivo
 
-O IF Meiker tem como objetivo documentar e demonstrar as atividades desenvolvidas no laboratório do campus, abrangendo as áreas de eletrônica, impressão 3D e inovação e tecnológica..
+O IF Maiker tem como objetivo documentar e demonstrar as atividades desenvolvidas no laboratório do campus, abrangendo as áreas de eletrônica, impressão 3D e inovação e tecnológica..
 
 ## 🚀 Tecnologias Utilizadas
 
