@@ -11,6 +11,8 @@ O projeto é gerido pelos alunos:
 - Ian Taiki // Contato: ian.oshiro@estudante.ifms.edu.br
 - Matheus Coman // Contato: mateus.leonel@estudante.ifms.edu.br
 
+-Orientador: Lucas de Souza // Contato: lucas.rodrigues@ifms.edu.br
+
 ## 🎯 Objetivo
 
 O IF Maker tem como objetivo documentar e demonstrar as atividades desenvolvidas no laboratório do campus, abrangendo as áreas de eletrônica, impressão 3D e inovação e tecnológica..
@@ -26,6 +28,7 @@ Aqui estão as tecnologias que foram empregadas no desenvolvimento deste projeto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
 </p>
 
 ### Outras Ferramentas e Plataformas
@@ -37,7 +40,7 @@ Aqui estão as tecnologias que foram empregadas no desenvolvimento deste projeto
 
 ## 📄 Licença
 
-Este projeto está sob a licença [inserir licença, ex: MIT].
+Este projeto está sob a licença MIT.
 
 ---
 
