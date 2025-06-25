@@ -2,6 +2,9 @@
 
 Este é o repositório oficial do **IF Maker**, um projeto desenvolvido no Instituto Federal de Mato Grosso do Sul - Campus Ponta Porã.
 
+<p style="text-align: center;"><img src="src/Logo_if_maiker.jpg" style="width: 150px; height: auto;">
+</p>
+
 ## 👥 Equipe
 
 O projeto é gerido pelos alunos:
