@@ -32,7 +32,7 @@ Aqui estão as tecnologias que foram empregadas no desenvolvimento deste projeto
 
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  <img src="https://img.shields.io/badge/STEM-000000?style=for-the-badge&logo=stem&logoColor=white" alt="STEM">
 </p>
 
 ## 📄 Licença
