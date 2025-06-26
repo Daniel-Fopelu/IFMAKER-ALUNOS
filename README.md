@@ -2,7 +2,8 @@
 
 Este é o repositório oficial do **IF Maker**, um projeto desenvolvido no Instituto Federal de Mato Grosso do Sul - Campus Ponta Porã.
 
-<p style="text-align: center;"><img src="src/Logo_if_maiker.jpg" style="width: 150px; height: auto;">
+<p style="border-left=150px">
+  <img src="src/Logo_if_maiker.jpg" style="width: 150px; height: auto;">
 </p>
 
 ## 👥 Equipe
@@ -12,9 +13,12 @@ O projeto é gerido pelos alunos:
 - Ivan Gabriel // Contato: ivan.rodrigues@estudante.ifms.edu.br
 - Daniel Jin // Contato: daniel.jin@estudante.ifms.edu.br
 - Ian Taiki // Contato: ian.oshiro@estudante.ifms.edu.br
-- Matheus Coman // Contato: mateus.leonel@estudante.ifms.edu.br
+- Matheus Colman // Contato: matheus.leonel@estudante.ifms.edu.br
 
--Orientador: Lucas de Souza // Contato: lucas.rodrigues@ifms.edu.br
+Responsavel pelo laboratorio:
+
+- Professor: Lucas Rodrigues // Contato: lucas.rodrigues@ifms.edu.br
+- Professor: Franz Corsini // Contato: franz.corsini@ifms.edu.br
 
 ## 🎯 Objetivo
 
@@ -32,6 +36,7 @@ Aqui estão as tecnologias que foram empregadas no desenvolvimento deste projeto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 ### Outras Ferramentas e Plataformas
