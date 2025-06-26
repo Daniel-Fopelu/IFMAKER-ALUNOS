@@ -2,10 +2,10 @@
 
 Este é o repositório oficial do **IF Maker**, um projeto desenvolvido no Instituto Federal de Mato Grosso do Sul - Campus Ponta Porã.
 
-<p style="border-left=150px">
+<p align="center">
   <img src="src/Logo_if_maiker.jpg" style="width: 150px; height: auto;">
 </p>
-
+<h5 align="center">Imagem gerada com ia (Gemini2.5)</h5>
 ## 👥 Equipe
 
 O projeto é gerido pelos alunos:
@@ -31,20 +31,24 @@ Aqui estão as tecnologias que foram empregadas no desenvolvimento deste projeto
 ### Linguagens e Frameworks
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-### Outras Ferramentas e Plataformas
+### Ferramentas e Plataformas de Desenvolvimento
 
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/STEM-000000?style=for-the-badge&logo=stem&logoColor=white" alt="STEM">
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
 
 ## 📄 Licença
 
